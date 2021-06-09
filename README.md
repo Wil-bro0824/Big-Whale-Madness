@@ -1,4 +1,5 @@
-# Big Whale Madness
+# Big Whale Madness - Project 1 
+Team Members: William Brooks, Manolo Serrano, Stephen Bledsoe
 ____
 ![Coin](/images/coin.jpg)
 ___
@@ -7,7 +8,8 @@ ___
 
  ![image](/images/Bitcoin_Price_Chart.png)
 
-* Alt coins such as Ethereum, Cardano, and Doge are a few of the more popular coins
+* Ethereum, Cardano, and Doge Movement
+ 
  ![image](/images/Ethereum_Price_Chart.png)
  ![image](/images/Cardano_Price_Chart.png)
  ![image](/images/Doge_Price_Chart.png)
