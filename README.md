@@ -2,17 +2,13 @@
 ____
 ![Coin](/images/coin.jpg)
 ___
-# Sample size - Crypto Exchange Data Flow
+# Sample size - Crypto Exchange Data Flow 2020-2021 Momentum
  * Building a data set of BitCoins total dominance in the crypto market.
- ![Total Dominace](/images/bokeh_plot.png)
+ ![image](/images/Bitcoin_Price_Chart.png)
  
- * Stable coin is supported by the dollar and is in less circulation than the mined BitCoin. 
-![BitCoin Dominanace](/images/Bitcoin_Price_Chart.png)
-* Alt Coin (alternative coin) has had a momentum following through 2020 and especially into 2021
-![Alt Coin](/images/Alt_Prie_Chart.png)
-* Cadarno
-* Etherum
-* Doge
-![Cardano](/images/Cardano_Prie_Chart.png)
-![Etherum](/images/Ethereum_Prie_Chart.png)
-![Doge](/images/Doge_Prie_Chart.png)
+*Alt coins such as Ethereum, Cardano, and Doge are a few of the more popular coins
+
+![image](/images/Ethereum_Price_Chart.png)
+![image](/images/Cardano_Price_Chart.png)
+![image](/images/Doge_Price_Chart.png)
+
